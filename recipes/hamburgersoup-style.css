@@ -1,0 +1,16 @@
+
+div,
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+ul,
+ol,
+.desc {
+
+    display: inline-block;
+    text-align: left;
+}
+
